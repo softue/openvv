@@ -1,0 +1,12 @@
+[Desktop Entry]
+Value=1.0
+Name=OpenVV
+Comment=Open Virt Viewer File
+Categories=Utility
+Type=Application
+Exec=/usr/bin/openvv
+MimeType=application/virtviewer
+Encoding=UTF-8
+StartupNotify=true
+Terminal=false
+NoDisplay=true
